@@ -1,0 +1,7 @@
+venv/
+app/config/secrets.py
+app/__pycache__
+app/users/__pycache__
+app/albums/__pycache__
+app/config/__pycache__
+
