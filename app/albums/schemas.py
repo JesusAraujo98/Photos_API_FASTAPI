@@ -6,6 +6,8 @@ def albumEntity(item) -> dict:
         "is_active": item["is_active"],
         "created": str(item["created"]),
         "cover":item["cover"],
+        "is_public": item['is_public'],
+        "shared_with":item['shared_with'],
     }
 
 
